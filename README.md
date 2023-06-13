@@ -1,9 +1,9 @@
 <h3> Olá!! Eu sou o Gustavo. Legal ter você por aqui!! </h3>
 
 
-- 🔭 Atualmente estou trabalhando como QA na Concrete
-- 🌱 Estou aprendendo Java para conseguir mudar de área
-- 🤔 Desejo ser um dev backend muito em breve 😍
+- 🔭 Atualmente estou trabalhando como desenvolvedor backend na Concrete
+- 🌱 Estou aprendendo Java para conseguir ter mais de uma linguagem de programação para atuar no backend
+- 🤔 Atualmente trabalho com Kotlin e já trabalhei com NodeJS 😍
 - 😄 Meus pronomes: ele/dele
 - ⚡ Bons códigos! 😁
 <hr/>
