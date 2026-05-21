@@ -1,17 +1,14 @@
-<h3> 👋 Olá!! Eu sou o Gustavo. Legal ter você por aqui!! </h3>
+<h3> Olá!! Eu sou o Gustavo. Legal ter você por aqui!! </h3>
 
-- 🔭 Atualmente trabalho como Desenvolvedor Backend no **Itaú Unibanco**.
-- 🛠️ No meu dia a dia utilizo **Kotlin** focado em microsserviços de alta escala.
-- ☁️ Atuo fortemente com infraestrutura como código e cloud na **AWS** (S3, EC2, Lambda, API Gateway, Load Balancers, ECS, EKS e Terraform).
-- ⚙️ Experiência na criação e manutenção de pipelines de CI/CD automatizadas utilizando **GitHub Actions**.
-- 🌱 Sigo aprimorando meus conhecimentos no ecossistema **Java** e arquitetura de sistemas distribuídos.
-- 🤔 Tenho experiência prévia sólida com **NodeJS** 😍.
-- 😄 Meus pronomes: ele/dele.
+- 🔭 Atualmente estou trabalhando como desenvolvedor backend no **Itaú Unibanco**
+- 🛠️ No meu dia a dia utilizo **Kotlin**, **Terraform** e recursos da **AWS** (S3, EC2, Lambda, API Gateway, Load Balancers, ECS, EKS)
+- ⚙️ Criando e mantendo pipelines de CI/CD automatizadas utilizando **GitHub Actions**
+- 🌱 Estou aprendendo Java para conseguir ter mais de uma linguagem de programação para atuar no backend
+- 🤔 Atualmente trabalho com Kotlin e já trabalhei com NodeJS 😍
+- 😄 Meus pronomes: ele/dele
 - ⚡ Bons códigos! 😁
-
 <hr/>
-
-<h3> 📊 Meus números no GitHub </h3>
+<h3> Um pouquinhos sobre meus números 😊 </h3>
 <br>
 <div align="center">
   <a href="https://github.com">
@@ -21,34 +18,27 @@
 </div>
 
 <hr/>
-
-<h3> 🛠️ Tecnologias e Ferramentas </h3>
+<h3> Tecnologias 😊 </h3>
 <br>
-<div align="center">
-  <!-- Backend principal -->
-  <img src="https://shields.io" alt="Kotlin" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="JavaScript" />
-  
-  <br><br>
-  
-  <!-- Cloud e DevOps -->
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="Terraform" />
-  <img src="https://shields.io" alt="GitHub Actions" />
-  <img src="https://shields.io" alt="Kubernetes/EKS" />
-  <img src="https://shields.io" alt="Docker/ECS" />
-  <img src="https://shields.io" alt="MongoDB" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="CSS" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="HTML" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Java" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="AWS" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="GitHub Actions" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Docker" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://githubusercontent.com">
 </div>
 
 <hr/>
-
-<h3> 🤝 Vamos nos conectar? </h3>
 <br>
 <div>
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
+    <img src="https://shields.io"/>
   </a>
 </div>
-
